@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados brutos e arquivos locais do projeto
+*.csv
+*.zip
+*.json
+*.parquet
+*.dbc*.env
+.DS_Store
+Thumbs.db
